@@ -69,7 +69,7 @@ Exemplo: `312529;Karina;M;1900-01-01 00:00:00.000;Física;12525000;Potim;SP;Bras
 # APIs de Integração
 
 O conjunto de APIs REST estão nesta documentação online: https://api.fbits.net/  
-Para utilizar as APIs, será necessário informar um token de autentição e autorização.
+Para utilizar as APIs, será necessário informar um token de autenticação e autorização.
 
 Token loja moda: `hacka-e312b2bf-c7ca-420b-9e02-cce40374deb9`  
 Token loja construção: `hacka-8ccc5a2c-75cf-4b42-819b-220dabd87742`
